@@ -25,13 +25,10 @@ main :: proc() {
 		colonInd := strings.index_rune(line, ':')
 		goal := strconv.atoi(line[0:colonInd])
 		numStrs := strings.split(line[colonInd + 2:], " ")
-		nums: [dynamic]int = make([dynamic]int)
-
-		test := 1
-		for numStr in numStrs {
+		nums := make([]int, len(numStrs))
+		for numStr, i in numStrs {
 			num := strconv.atoi(numStr)
-			append(&nums, num)
-			test *= num
+			nums[i] = num
 		}
 
 		/* Part 1
@@ -72,8 +69,6 @@ main :: proc() {
 				break // only count once
 			}
 		}
-
-		delete(nums)
 	}
 
 	fmt.println(solutionCount)
