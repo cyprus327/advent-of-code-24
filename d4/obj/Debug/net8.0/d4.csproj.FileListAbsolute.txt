@@ -1,0 +1,14 @@
+/home/cyprus/Repos/aoc24/d4/obj/Debug/net8.0/d4.GeneratedMSBuildEditorConfig.editorconfig
+/home/cyprus/Repos/aoc24/d4/obj/Debug/net8.0/d4.AssemblyInfoInputs.cache
+/home/cyprus/Repos/aoc24/d4/obj/Debug/net8.0/d4.AssemblyInfo.cs
+/home/cyprus/Repos/aoc24/d4/obj/Debug/net8.0/d4.csproj.CoreCompileInputs.cache
+/home/cyprus/Repos/aoc24/d4/bin/Debug/net8.0/d4
+/home/cyprus/Repos/aoc24/d4/bin/Debug/net8.0/d4.deps.json
+/home/cyprus/Repos/aoc24/d4/bin/Debug/net8.0/d4.runtimeconfig.json
+/home/cyprus/Repos/aoc24/d4/bin/Debug/net8.0/d4.dll
+/home/cyprus/Repos/aoc24/d4/bin/Debug/net8.0/d4.pdb
+/home/cyprus/Repos/aoc24/d4/obj/Debug/net8.0/d4.dll
+/home/cyprus/Repos/aoc24/d4/obj/Debug/net8.0/refint/d4.dll
+/home/cyprus/Repos/aoc24/d4/obj/Debug/net8.0/d4.pdb
+/home/cyprus/Repos/aoc24/d4/obj/Debug/net8.0/d4.genruntimeconfig.cache
+/home/cyprus/Repos/aoc24/d4/obj/Debug/net8.0/ref/d4.dll

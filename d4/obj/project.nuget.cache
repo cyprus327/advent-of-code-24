@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IbONEzeqJ+Xk/J49nTNr3ksW8fyziAlV6M7gMZl6wPwnOohxY0oJNwso3w52g5bTGJQvacE+yyDdEy7Kd1+Fzw==",
+  "success": true,
+  "projectFilePath": "/home/cyprus/Repos/aoc24/d4/d4.csproj",
+  "expectedPackageFiles": [
+    "/home/cyprus/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
