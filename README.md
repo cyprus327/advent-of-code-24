@@ -1,4 +1,2 @@
 # advent of code 2024
-trying out new languages in advent of code 2024
-day 1-4: C#   // not new
-day 5-9: odin // new
+trying out odin in advent of code 2024, day 1-4 was in C#
